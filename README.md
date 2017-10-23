@@ -1,4 +1,4 @@
-# c-classroom-assignments
+# c++ classroom-assignments
 
 a listing of c++ programming assignments done during my studies..
 
