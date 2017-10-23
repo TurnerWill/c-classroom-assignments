@@ -1,6 +1,6 @@
 # c++ classroom-assignments
 
-a listing of c++ programming assignments done during my studies..
+a listing of c++ programming assignments done during my studies (101 level)..
 
 the assignments cover the basics of introductory c++ coding from basic variable assignments, logical/conditional operators,
 reading input, output to screen,looping, arrays, pointers and memory management
