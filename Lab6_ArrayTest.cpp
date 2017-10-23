@@ -1,14 +1,14 @@
 /*#######################################################################
 #																		#
-#	Bill Turner												05/15/14	#
-#	csc 110 - 401											Lab 6		#
-#				Program to calculate the class average					#
-#	for an unknown number of test scores (up to 10 scores). 			#
-#	Program consists of													#
-#	3 functions. The first to get data, the second to compute			#
-#	the average, andthe third to print the test score; Using 			#
-#	arrays as function parameters.  The class average rounded to the 	#
-# 	the nearest 100th.													#
+#	Bill Turner					05/15/14	#
+#	csc 110 - 401					Lab 6		#
+#				Program to calculate the class average	#
+#	for an unknown number of test scores (up to 10 scores). 	#
+#	Program consists of						#
+#	3 functions. The first to get data, the second to compute	#
+#	the average, andthe third to print the test score; Using 	#
+#	arrays as function parameters.  The class average rounded to the#
+# 	the nearest 100th.						#
 #######################################################################*/
 
 #include<iostream>
